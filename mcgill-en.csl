@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="note" default-locale="en-US">
   <info>
-    <title>Canadian Guide to Uniform Legal Citation 9th edition (McGill Guide)</title>
+    <title>Canadian Guide to Uniform Legal Citation 10th edition (McGill Guide)</title>
     <id>http://www.zotero.org/styles/mcgill-en</id>
     <link href="http://www.zotero.org/styles/mcgill-en" rel="self"/>
     <link href="https://lawjournal.mcgill.ca/cite-guide" rel="documentation"/>
     <author>
+      <name>Gareth Spanglett</name>
+      <email>gspanglett@gmail.com</email>
+      <uri>https://gspanglett.github.io</uri>
+    </author>
+    <contributor>
       <name>Liam McHugh-Russell</name>
       <email>liam.mchugh.russell@gmail.com</email>
-    </author>
+    </contributor>
     <contributor>
       <name>Frank Bennett</name>
     </contributor>
@@ -16,11 +21,6 @@
       <name>Florian Martin-Bariteau</name>
       <email>f.martin-bariteau@umontreal.ca</email>
       <uri>http://f-mb.github.io/cslegal/</uri>
-    </contributor>
-    <contributor>
-      <name>Gareth Spanglett</name>
-      <email>gspanglett@gmail.com</email>
-      <uri>https://gspanglett.github.io</uri>
     </contributor>
     <category citation-format="note"/>
     <category field="law"/>
